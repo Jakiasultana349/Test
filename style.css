@@ -1,0 +1,532 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header_sec {
+    overflow: hidden;
+
+    background-color: black;
+    padding: 10px 100px;
+}
+
+.header_sec > #mingle {
+
+
+    color: #ED6E6D;
+    font-family: cursive;
+    float: left;
+}
+
+.header_sec > .menu {
+
+    float: right;
+    overflow: hidden;
+
+}
+
+.header_sec > .menu > ul {
+    list-style: none;
+    overflow: hidden;
+
+
+}
+
+.header_sec > .menu > ul > li {
+
+    float: left;
+
+
+}
+
+.header_sec > .menu > ul > li > a {
+    text-decoration: none;
+    font-family: cursive;
+    color: #FFFFFF;
+    display: block;
+    padding: 10px 10px;
+
+}
+
+/*END header sec*/
+
+.image {
+    background-image: url(../imgs/bg-1.jpg);
+    min-height: 700px;
+    background-size: cover;
+
+
+    padding-top: 100px
+}
+
+.image > .logo {
+    width: 185px;
+    height: 185px;
+    margin: 0 auto
+}
+
+.image > #simplicity {
+    padding-left: 38%;
+    font-family: cursive;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+
+.image > #simplicity > span {
+    font-weight: bold;
+}
+
+/*END setion name*/
+.green {
+
+    background-color: #1CAC9A;
+    padding: 100px 0px;
+    overflow: hidden;
+}
+
+.green > .there {
+    width: 49%;
+    text-align: right;
+    float: left;
+    overflow: hidden;
+}
+
+.green > .there > img {}
+
+.green > .there > #huge {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.green > .there > #huge2 {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.green > .there > #huge3 {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.green > .there > #mark {
+    font-size: 10px;
+    font-family: cursive;
+
+    padding-top: 3px;
+}
+
+.green > .cup {
+    width: 45%;
+    float: left;
+    margin-left: 6%;
+}
+
+/*END*/
+.gray {
+    background-color: #F2F2F2;
+    overflow: hidden;
+    padding: 0px 0px 100px 0px;
+}
+
+.gray > #who {
+    text-align: center;
+    padding-top: 30px;
+    font-family: cursive;
+
+}
+
+.grayhalf {
+    width: 45%;
+    float: left;
+
+}
+
+.grayhalf > #live {
+    padding-left: 30%;
+    padding-top: 20px;
+    font-family: cursive;
+    font-weight: 100;
+}
+
+.grayhalf > #live > span {
+    font-weight: bold;
+}
+
+.grayhalf > #live {
+    padding-top: 30px;
+    padding-left: 50%;
+}
+
+.grayhalf > p {
+    padding-left: 50%;
+    padding-top: 10px;
+    font-family: cursive;
+    color: #939393;
+}
+
+
+
+.gray > .grayhalf2 > img {
+    width: 45%;
+    float: left;
+    overflow: hidden;
+
+}
+
+.image_wrapper > .image2 {
+    padding-left: 25%;
+    text-align: center;
+}
+
+.grayhalf_wrapper {
+    overflow: hidden;
+}
+
+.image_wrapper {}
+
+.product1 > img {
+
+    border-radius: 50%;
+}
+
+.product1 > h3 {
+
+    font-family: cursive;
+}
+
+.product1 > p {
+
+    font-family: cursive;
+    color: #B7B7B7;
+    font-size: 15px;
+}
+
+.product2 > img {
+
+    border-radius: 50%;
+}
+
+.product2 > h3 {
+
+    font-family: cursive;
+}
+
+.product2 > p {
+
+    font-family: cursive;
+    color: #B7B7B7;
+    font-size: 15PX;
+}
+
+.product3 > img {
+
+    border-radius: 50%;
+}
+
+.product3 > h3 {
+
+    font-family: cursive;
+}
+
+.product3 > p {
+
+    font-family: cursive;
+    color: #B7B7B7;
+    font-size: 15PX;
+}
+
+.product4 > img {
+
+    border-radius: 50%;
+}
+
+.product4 > h3 {
+
+    font-family: cursive;
+}
+
+
+.product4 > p {
+
+    font-family: cursive;
+    color: #B7B7B7;
+    font-size: 15px;
+}
+
+.product5 > img {
+
+    border-radius: 50%;
+}
+
+.product5 > h3 {
+
+    font-family: cursive;
+}
+
+.product5 > p {
+
+    font-family: cursive;
+    color: #B7B7B7;
+    font-size: 15PX;
+}
+
+.pro {
+    float: left;
+    padding-left: 30px;
+}
+
+/*END*/
+
+.orange {
+    overflow: hidden;
+    background-color: #F46F36;
+    padding: 0px 0px 100px 0px;
+    text-align: center;
+
+}
+
+.orange > #services {
+    padding-top: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.web_wrapper {
+    margin-left: 20%;
+
+}
+
+
+.design > h3 {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.design > p {
+
+    font-family: cursive;
+    font-size: 12px;
+    color: #FFFFFF;
+    overflow: hidden;
+}
+
+
+
+.develop > h3 {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.develop > p {
+
+    font-family: cursive;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.photo > h3 {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.photo > p {
+
+    font-family: cursive;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+
+
+.ecommerce > h3 {
+
+    font-family: cursive;
+    color: #FFFFFF;
+}
+
+.ecommerce > p {
+
+    font-family: cursive;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+
+.web {
+    float: left;
+    padding-left: 100px;
+
+}
+
+/*END*/
+
+.white {
+
+    padding-top: 20px;
+}
+
+.white > h1 {
+
+    font-family: cursive;
+    text-align-last: center;
+}
+
+.button {
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.button > button {
+    padding: 8px 12px 8px 12px;
+    background-color: #FFFFFF;
+    border: 1px solid gray;
+    font-family: cursive;
+}
+
+.button > #all {
+    background-color: lightblue;
+    overflow: hidden;
+    transition: 1s;
+}
+
+.button > #all:hover {
+    background-color: #1CAC91;
+    overflow: hidden;
+    transform: rotate(360deg);
+}
+
+.pic_col{
+    float: left;
+    height: 150px;
+}
+.pic_col>img{ height: 150px}
+.pictures_wrapper {
+    padding: 30px 0px 100px 550px;
+   
+}
+.pictures{overflow: hidden; width: 100%}
+.integrity_wrapper {
+
+    background-image: url(../imgs/bg-3.jpg);
+    background-size:cover;
+}
+
+
+.integrity {
+    font-family: cursive;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 100px 0px 200px 0px;
+   
+
+}
+
+/*END*/
+
+.greencolor {
+    background-color: #1CAC91;
+ 
+
+}
+
+.greencolor > h2 {
+    text-align: center;
+    font-family: cursive;
+    color: #FFFFFF;
+    padding-top: 30px;
+
+}
+
+.greencolor > p {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: cursive;
+    padding-top: 20px;
+}
+
+/*form
+*/
+
+.form_wrap {
+    width: 85%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px 0px 0px 0px;
+}
+
+.form_co1 {
+    width: 48%;
+    box-sizing: border-box;
+    float: left;
+}
+
+.input {
+    padding-bottom: 30px;
+}
+
+.input > input {
+    border-style: none;
+    border-radius: 5px;
+    background: #E2E6E3;
+    padding: 20px 10px;
+    font-size: 16px;
+    color: #ddd;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.msg {
+    padding-bottom: 25px;
+}
+
+.msg > textarea {
+    border-style: none;
+    border-radius: 5px;
+    background: #E2E6E3;
+    padding: 16px 10px;
+    font-size: 16px;
+    color: #ddd;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.send {
+    width: 187px;
+
+    background: #24C7AA;
+    border-radius: 3px;
+    text-align: center;
+    padding: 20px 0px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.send:hover {
+    background:lightblue;
+}
+
+/*END*/
+.footer {
+   
+   
+    padding: 20px 0px 200px 0px;
+    background-color: #2B2B2B;
+    text-align: center;
+}
+
+.footer > .foot2 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: cursive;
+}
+
+
+
+/*END*/
